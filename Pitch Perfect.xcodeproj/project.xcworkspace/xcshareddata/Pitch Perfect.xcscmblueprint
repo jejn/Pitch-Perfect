@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C8B00AF3E6FE58239C1E4723F6FF24CB927AC5C7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DB4C0F0F3228C2DED3E73C39C0B7C2221A478610" : 0,
+    "C8B00AF3E6FE58239C1E4723F6FF24CB927AC5C7" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9A7918BF-DFEC-4839-877B-99478D6BD8DC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DB4C0F0F3228C2DED3E73C39C0B7C2221A478610" : "Pitch%20Perfect\/Pitch%20Perfect\/",
+    "C8B00AF3E6FE58239C1E4723F6FF24CB927AC5C7" : "Pitch%20Perfect\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Pitch Perfect",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Pitch Perfect.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jejn\/Pitch-Perfect.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DB4C0F0F3228C2DED3E73C39C0B7C2221A478610"
+    }
+  ]
+}
