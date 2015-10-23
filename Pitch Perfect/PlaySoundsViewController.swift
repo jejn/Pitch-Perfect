@@ -116,3 +116,4 @@ class PlaySoundsViewController: UIViewController, AVAudioPlayerDelegate {
     @IBAction func stopSound(sender: UIButton) {
         prepareAudio()
     }
+}
